@@ -1,0 +1,87 @@
+@charset "windows-1251";
+
+body {font:11pt Verdana;}
+
+code {
+    font-size:12pt;
+    color: #993300;
+    }
+ul.content li a:link {
+    text-decoration: none;
+    color: #000099;
+}
+ul.content li a:visited {
+    text-decoration: none;
+    color: #000099;
+}
+ul.content li a:hover {
+    text-decoration: none;
+    color: #000099;
+}
+ul.content li a:active {
+    text-decoration: none;
+    color: #000099;
+}
+
+ul.content, ul.content li {
+    list-style-type: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: #0000cc;
+}
+a:hover {
+    text-decoration: none;
+    color: #0000cc;
+}
+a:active {
+    text-decoration: none;
+    color: #0000cc;
+}
+a:visited {
+    text-decoration: none;
+    color: #0000cc;
+}
+
+pre {font-family: Courier New;}
+
+div.section {
+    font-weight: bold;
+    font-size: 12pt;
+    background-color:#99CCFF;
+    border-top: 1px solid #0099FF;
+    padding: 3pt 10pt;
+}
+div.subsect {
+    font-weight: bold;
+    font-size: 12pt;
+    background-color:#CCDDFF;
+    border-top: 1px solid #99CCFF;
+    padding: 3pt 10pt;
+}
+div.head {
+    font-weight: bold;
+    font-size: 14pt;
+    background-color:#CCCCFF;
+    border-top: 1px solid #9999FF;
+    padding: 5pt 10pt;
+}
+div.part {
+    font-weight: bold;
+    font-size: 16pt;
+    background-color:#FFCCCC;
+    border-top: 1px solid #FF9999;
+    padding: 5pt 10pt;
+}
+
+.code {
+    font-family: Courier New;
+    border: 1px solid #cccccc;
+    padding: 5pt 10pt;
+    background-color: #eeeeee;
+}
+
+i  {color: #660099;}
+h1 {color: #000099}
+b  { color:#333333;}
